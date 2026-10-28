@@ -2,6 +2,9 @@
 
 **Smart contract & AI engineer.** I build, test and deploy secure, production-ready smart contracts and LLM agents, from the Solidity all the way to the agent that uses it on-chain.
 
+[![Cyfrin Updraft SSCD+ certified](https://img.shields.io/badge/Cyfrin_Updraft-SSCD%2B_certified-5B4FE9)](https://profiles.cyfrin.io/u/conrad_sudo)
+
+- 🎓 **Certified:** Cyfrin Updraft SSCD+ ([my Cyfrin profile](https://profiles.cyfrin.io/u/conrad_sudo))
 - ⛓️ **Smart contracts:** Solidity and Foundry, from design through unit, fuzz, invariant and fork tests to multi-chain deployment
 - 🛡️ **Security first:** checks-effects-interactions, reentrancy guards, access control, oracle staleness checks, written threat models
 - 🤖 **LLM agents:** LangChain agents and tools that read chain data and prepare transactions, with guardrails so the model can't overspend
